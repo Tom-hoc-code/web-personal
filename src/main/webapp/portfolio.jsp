@@ -226,13 +226,13 @@ và tham gia các dự án <em>open-source</em> trong cộng đồng Data Engine
                 <!-- Week 9 -->
                 <div class="project-card">
                     <div class="week-badge">chương 12</div>
-                    <h3>Data Analytics Dashboard</h3>
-                    <p><strong>Link web:</strong> <a href="https://example.com/week9" target="_blank">https://example.com/week9</a></p>
+                    <h3></h3>
+                    <p><strong>Link web:</strong> <a href="https://ch12-fwlo.onrender.com" target="_blank">https://ch12-fwlo.onrender.com</a></p>
                 </div>
                 <div class="project-card">
                     <div class="week-badge">chương 13</div>
-                    <h3>Data Analytics Dashboard</h3>
-                    <p><strong>Link web:</strong> <a href="https://example.com/week9" target="_blank">https://example.com/week9</a></p>
+                    <h3></h3>
+                    <p><strong>Link GitHub:</strong> <a href="https://github.com/Tom-hoc-code/ch13.git" target="_blank">View on GitHub</a></p>
                 </div>
             </div>
         </div>
