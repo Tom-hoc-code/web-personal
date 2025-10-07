@@ -234,6 +234,13 @@ và tham gia các dự án <em>open-source</em> trong cộng đồng Data Engine
                     <h3></h3>
                     <p><strong>Link GitHub:</strong> <a href="https://github.com/Tom-hoc-code/ch13.git" target="_blank">View on GitHub</a></p>
                 </div>
+                <div class="project-card">
+                    <div class="week-badge">chương 14</div>
+                    <h3></h3>
+                    <p><strong>Link web:</strong> <a href="https://ch14-ex1-tam.onrender.com" target="_blank">https://ch14-ex1-tam.onrender.com</a></p>
+                    <p><strong>Link GitHub:</strong> <a href="https://github.com/Tom-hoc-code/ch14_ex1.git" target="_blank">View on GitHub</a></p>
+                </div>
+                
             </div>
         </div>
     </section>
